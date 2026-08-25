@@ -2,69 +2,76 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20There!%20👋%20I'm%20Tanish&fontSize=60&fontAlignY=38&animation=twinkling&fontColor=gradient" width="100%" />
 
-  <!-- Typing SVG Animation -->
+  <!-- Typing SVG Animation for AI/ML -->
   <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Crafting+Modern+Web+Experiences+%F0%9F%9A%80;Lifelong+Learner+%26+Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=AI+%2F+Machine+Learning+Engineer+%F0%9F%A4%96;Deep+Learning+%26+Neural+Networks+%F0%9F%A7%A0;Generative+AI+%26+LLM+Specialist+%E2%9C%A8;Data+Scientist+%26+MLOps+Builder+%F0%9F%9A%80;Problem+Solver+%26+Tech+Innovator+%F0%9F%92%A1" alt="Typing SVG" />
     </a>
   </p>
 
   <!-- Badges Row -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=WARRIORXR&label=Profile%20Views&color=2E9EF7&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-brightgreen?style=flat-square" alt="Status" />
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Web%20Apps-blueviolet?style=flat-square" alt="Focus" />
+    <img src="https://img.shields.io/badge/Status-Training%20Neural%20Nets-brightgreen?style=flat-square&logo=openai&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML%20%26%20Generative%20AI-blueviolet?style=flat-square&logo=pytorch&logoColor=white" alt="Focus" />
   </p>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 🧠 About Me
 
-```javascript
-const developer = {
-  name: "Tanish Jaswal",
-  role: "Full Stack Developer",
-  handle: "@WARRIORXR",
-  code: ["JavaScript", "TypeScript", "Python", "HTML/CSS", "SQL"],
-  technologies: {
-    frontend: ["React", "Next.js", "Tailwind CSS", "Vite", "HTML5/CSS3"],
-    backend: ["Node.js", "Express.js", "Python", "REST APIs"],
-    databases: ["MongoDB", "PostgreSQL", "Firebase"],
-    tools: ["Git", "GitHub", "Docker", "VS Code", "Postman", "Figma"]
-  },
-  currentFocus: "Building responsive, modern, high-performance web applications",
-  passions: ["Clean Code", "UI/UX Design", "Open Source", "Scalable Systems"],
-  funFact: "I turn coffee into performant web applications ☕🚀"
-};
+```python
+class MLEngineer:
+    def __init__(self):
+        self.name = "Tanish Jaswal"
+        self.handle = "@WARRIORXR"
+        self.role = "AI / Machine Learning Engineer & Data Scientist"
+        self.code = ["Python", "C++", "SQL", "TypeScript", "R"]
+        self.domains = [
+            "Deep Learning & Neural Architectures",
+            "Generative AI & Large Language Models (LLMs)",
+            "Computer Vision & Natural Language Processing (NLP)",
+            "Data Science & Predictive Modeling",
+            "MLOps, Model Optimization & Deployment"
+        ]
+        self.frameworks = [
+            "PyTorch", "TensorFlow", "Scikit-Learn", 
+            "Hugging Face", "LangChain", "OpenCV"
+        ]
+        self.tools = ["Docker", "CUDA", "FastAPI", "MLflow", "Jupyter", "Git", "VS Code"]
+        self.current_focus = "Fine-tuning foundation models, Agentic AI, and scalable ML pipelines"
+
+    def passion(self):
+        return "Transforming complex datasets into intelligent, autonomous solutions 🧠⚡"
 ```
 
-- 🔭 **Currently working on**: Scalable full-stack applications and interactive web experiences
-- 🌱 **Learning & Exploring**: Advanced Microservices, AI/ML Integrations & Cloud Architecture
-- 👯 **Open to collaborate on**: Exciting Open Source projects & innovative Full Stack tools
-- 💬 **Ask me about**: JavaScript, TypeScript, React, Node.js, Frontend Architecture, and Modern Web Design
+- 🔭 **Currently working on**: Fine-tuning Large Language Models, RAG (Retrieval-Augmented Generation) pipelines, and Computer Vision models
+- 🌱 **Learning & Exploring**: Agentic AI workflows, LLM Quantization, MLOps orchestration, and Deep Reinforcement Learning
+- 👯 **Looking to collaborate on**: Open-source AI/ML tools, Hugging Face models/datasets, and cutting-edge research projects
+- 💬 **Ask me about**: PyTorch, Deep Learning architectures, Transformers, Data Pipelines, FastAPI, and Model Deployment
 - 📫 **Reach me at**: [tanishjaswal56@gmail.com](mailto:tanishjaswal56@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ AI / ML Tech Stack & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,html,css,tailwind,mongodb,postgres,docker,aws,git,github,vscode,figma,postman" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,opencv,anaconda,fastapi,flask,docker,aws,postgres,mongodb,linux,git,github,vscode,postman" alt="AI/ML Skills" />
   </a>
 </p>
 
-<details>
-<summary><b>🔥 Click to view categorized skills breakdown</b></summary>
+<details open>
+<summary><b>🔥 Categorized AI/ML & Engineering Matrix</b></summary>
 <br/>
 
-| Category | Technologies & Tools |
+| Domain | Frameworks, Libraries & Tools |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **DevOps & Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| **Machine Learning & Deep Learning** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| **Generative AI & LLMs** | ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FF9A00?style=flat-square&logo=openai&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=flat-square) ![RAG Systems](https://img.shields.io/badge/RAG%20Pipelines-00C7B7?style=flat-square) |
+| **Data Science & Analytics** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **MLOps & Backend Deployment** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 </details>
 
@@ -94,14 +101,14 @@ const developer = {
 
 ---
 
-### 🚀 Featured Repositories & Projects
+### 🚀 Featured Projects & Repositories
 
 <div align="center">
   <a href="https://github.com/WARRIORXR/ExpenseFlow">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=WARRIORXR&repo=ExpenseFlow&theme=radical&hide_border=true" alt="ExpenseFlow" />
   </a>
   <a href="https://github.com/WARRIORXR/to-do-list">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WARRIORXR&repo=to-do-list&theme=radical&hide_border=true" alt="TaskFlow - To-Do List" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WARRIORXR&repo=to-do-list&theme=radical&hide_border=true" alt="TaskFlow" />
   </a>
 </div>
 <div align="center">

@@ -125,18 +125,50 @@ class TanishJaswal:
 
 ### 🎓 Learning Path
 
-> 🧭 My data + ML roadmap — bars fill up as I level up.
+> 🧭 My data + ML roadmap — checked off as I master each step.
 
-| Milestone | Progress | Status |
-| :--- | :---: | :---: |
-| **Python** — scripting, data wrangling, automation | ▰▰▰▰▰ 100% | ✅ Done |
-| **SQL** — joins, aggregations, window functions | ▰▰▰▰▱ 90% | ✅ Done |
-| **Statistics & EDA** — probability, hypothesis testing, visualization | ▰▰▰▰▱ 80% | ✅ Done |
-| **Excel & Power BI** — pivots, DAX, dashboards | ▰▰▰▱▱ 70% | 🔄 In progress |
-| **Classical ML** — regression, trees, ensembles with Scikit-Learn | ▰▰▱▱▱ 45% | 🔄 In progress |
-| **Deep Learning** — CNNs, RNNs & Transformers with PyTorch | ▰▱▱▱▱ 20% | 🔄 In progress |
-| **GenAI / LLMs** — RAG, prompt engineering, fine-tuning | ▰▱▱▱▱ 15% | 🔄 In progress |
-| **MLOps** — Docker, FastAPI, experiment tracking, deployment | ▱▱▱▱▱ 0% | ⬜ Up next |
+<table>
+  <tr>
+    <td><b>Python</b> — scripting, data wrangling, automation</td>
+    <td>▰▰▰▰▰ 100%</td>
+    <td>✅ Done</td>
+  </tr>
+  <tr>
+    <td><b>SQL</b> — joins, aggregations, window functions</td>
+    <td>▰▰▰▰▱ 90%</td>
+    <td>✅ Done</td>
+  </tr>
+  <tr>
+    <td><b>Statistics & EDA</b> — probability, hypothesis testing, visualization</td>
+    <td>▰▰▰▰▱ 80%</td>
+    <td>✅ Done</td>
+  </tr>
+  <tr>
+    <td><b>Excel & Power BI</b> — pivots, DAX, dashboards</td>
+    <td>▰▰▰▱▱ 70%</td>
+    <td>🔄 In progress</td>
+  </tr>
+  <tr>
+    <td><b>Classical ML</b> — regression, trees, ensembles with Scikit-Learn</td>
+    <td>▰▰▱▱▱ 45%</td>
+    <td>🔄 In progress</td>
+  </tr>
+  <tr>
+    <td><b>Deep Learning</b> — CNNs, RNNs & Transformers with PyTorch</td>
+    <td>▰▱▱▱▱ 20%</td>
+    <td>🔄 In progress</td>
+  </tr>
+  <tr>
+    <td><b>GenAI / LLMs</b> — RAG, prompt engineering, fine-tuning</td>
+    <td>▰▱▱▱▱ 15%</td>
+    <td>🔄 In progress</td>
+  </tr>
+  <tr>
+    <td><b>MLOps</b> — Docker, FastAPI, experiment tracking, deployment</td>
+    <td>▱▱▱▱▱ 0%</td>
+    <td>⬜ Up next</td>
+  </tr>
+</table>
 
 ---
 
@@ -241,19 +273,19 @@ class TanishJaswal:
   <img src="https://img.shields.io/github/last-commit/WARRIORXR/ExpenseFlow?style=flat-square&label=Last%20Commit&color=f59e0b" alt="Last commit" />
 </p>
 
-#### 🐍 Contribution Snake
-
-> Auto-generated daily by GitHub Actions — watch the snake eat my contribution graph 🍎
+#### 🐍 Contribution Overview
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WARRIORXR/WARRIORXR/output/github-contribution-grid-snake-dark.svg" />
-    <img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/WARRIORXR/WARRIORXR/output/github-contribution-grid-snake.svg" />
+    <img width="100%" alt="Contribution grid" src="https://raw.githubusercontent.com/WARRIORXR/WARRIORXR/output/github-contribution-grid-snake.svg" />
   </picture>
+  <p>
+    <sub>Daily contribution activity — auto-updated by GitHub</sub>
+  </p>
 </div>
 
----
-
+---n
 ### 💬 Quote of the Day
 
 <div align="center">

@@ -1,39 +1,41 @@
 <div align="center">
 
-# Hi, I'm Warrior
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BFF,50:00B4D8,100:2EA44F&height=200&section=header&text=Hi%2C%20I%27m%20Warrior&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=computer%20science%20student%20%C2%B7%20React%20%2B%20Python%20%2B%20Supabase&descAlignY=70&descSize=16" alt="Hi, I'm Warrior — computer science student working in React, Python and Supabase" />
 
-Computer science and engineering student in India. I build small, practical products end to end — and write down what I learn while doing it.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1400&color=539BF5&center=true&vCenter=true&width=640&lines=I+build+small+products+end+to+end.;Currently+hardening+Daily+Ink.;Next%3A+README+and+demo+for+JARVIS." alt="I build small products end to end. Currently hardening Daily Ink. Next: README and demo for JARVIS." />
 
-[![Daily Ink live demo](https://img.shields.io/badge/Live-Daily%20Ink-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://daily-ink-three.vercel.app/) [![Based in India](https://img.shields.io/badge/Based%20in-India-ff9933?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/WARRIORXR) [![Profile views](https://komarev.com/ghpvc/?username=WARRIORXR&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/WARRIORXR)
+[![Daily Ink live demo](https://img.shields.io/badge/Live-Daily%20Ink-2EA44F?style=for-the-badge&logo=vercel&logoColor=white)](https://daily-ink-three.vercel.app/) [![Based in India](https://img.shields.io/badge/Based%20in-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/WARRIORXR) [![Open to internships](https://img.shields.io/badge/Open%20to-Internships-6D5BFF?style=for-the-badge)](#lets-connect)
 
 </div>
 
 ## About me
 
-- **Studying:** computer science and engineering in India. Coursework includes compiler design and wireless communications.
-- **Building:** Daily Ink, a private daily journal PWA with streaks, "On This Day" memories and spaced-repetition reviews.
-- **Also building:** JARVIS, a personal AI assistant in Python with a browser interface.
-- **Right now:** making Daily Ink sturdier offline and easier to test, and giving JARVIS a real README and demo.
-- **Curious about:** how a tested frontend, a real database and a deployment pipeline fit together — and using AI coding assistants without skipping the review step.
-- **Looking for:** internships, collaboration, and honest feedback on my projects.
+- **Studying** — computer science and engineering in India; coursework includes compiler design and wireless communications.
+- **Building** — Daily Ink, a private daily journal PWA with streaks, "On This Day" memories and spaced-repetition reviews.
+- **Also building** — JARVIS, a personal AI assistant in Python with a browser interface.
+- **Right now** — making Daily Ink sturdier offline and easier to test, then giving JARVIS a real README and demo.
+- **Curious about** — how a tested frontend, a real database and a deployment pipeline fit together, and using AI coding assistants without skipping the review step.
+- **Looking for** — internships, collaboration, and honest feedback on my projects.
 
 ## Featured projects
 
 ### Daily Ink — a private daily journal
 
-Write one page a day; Daily Ink keeps the streak, resurfaces what you wrote on this date in past years, and schedules reviews on a spaced-repetition ladder (roughly 1 → 3 → 7 → 14 → 30 days) so old entries stay memorable. It installs as a PWA and keeps working offline.
+Write one page a day. Daily Ink keeps the streak, resurfaces what you wrote on this date in past years, and schedules reviews on a spaced-repetition ladder (1 → 3 → 7 → 14 → 30 days) so old entries stay memorable. It installs as a PWA and keeps working offline.
 
-- **Frontend:** React 19, Vite and Tailwind CSS; installable PWA with a service worker and offline app shell.
+![React](https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+
+- **Frontend:** React 19, Vite and Tailwind CSS; installable PWA with a service worker and an offline app shell.
 - **Data and auth:** Supabase Postgres with row-level security on every table, username-based sign-in, realtime cross-device sync, optional client-side AES-256-GCM encryption, and JSON/Markdown export.
 - **Logic and tests:** date math, streaks and the review scheduler live in a small Rust core compiled to WebAssembly, exercised by `npm test` (Rust and Python suites).
 
-[![Daily Ink source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/WARRIORXR/daily-ink) [![Daily Ink live demo](https://img.shields.io/badge/Live%20demo-daily--ink--three.vercel.app-2ea44f?style=flat-square&logo=vercel&logoColor=white)](https://daily-ink-three.vercel.app/)
+[![Daily Ink source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/WARRIORXR/daily-ink) [![Live demo](https://img.shields.io/badge/Live%20demo-daily--ink--three.vercel.app-2EA44F?style=flat-square&logo=vercel&logoColor=white)](https://daily-ink-three.vercel.app/)
 
 ### JARVIS — personal AI assistant
 
 An assistant I am building for my own daily use: a Python agent with a browser front end for talking to it. The next milestone is a proper README and a short demo, so the repo is clear about what works today.
 
-[![JARVIS source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/WARRIORXR/JARVIS-AI-Agent)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) [![JARVIS source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/WARRIORXR/JARVIS-AI-Agent)
 
 ## Tech stack
 
@@ -65,12 +67,10 @@ An assistant I am building for my own daily use: a Python agent with a browser f
 
 Happy to talk about internships, open-source collaboration, or anything I got wrong in the code above.
 
-<!-- ADD LINKEDIN URL: replace the # in the badge link below -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Warrior-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
-<!-- ADD EMAIL ADDRESS: replace the # in the badge link below -->
-[![Email](https://img.shields.io/badge/Email-Say%20hello-D14836?style=flat-square&logo=gmail&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-WARRIORXR-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/WARRIORXR)
+<!-- ADD LINKEDIN URL: replace the # in the LinkedIn badge link below -->
+<!-- ADD EMAIL ADDRESS: replace the # in the Email badge link below -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Warrior-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#) [![Email](https://img.shields.io/badge/Email-Say%20hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-WARRIORXR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WARRIORXR)
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA44F,50:00B4D8,100:6D5BFF&height=110&section=footer" alt="Decorative wave footer" />
 
 Thanks for reading — feedback on Daily Ink is especially welcome.

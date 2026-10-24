@@ -84,25 +84,23 @@ A private journal PWA: write one page a day, and the app keeps the score. Streak
 ### 🛠️ Skills
 
 <p align="center">
-  <b>Data &amp; ML</b> ·
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=flat-square" />
-  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="pandas" src="https://img.shields.io/badge/-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/-4D77CF?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
 </p>
 
 <p align="center">
-  <b>Web &amp; Tools</b> ·
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-4B5563?style=flat-square&logo=flask&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-4B5563?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-30363D?style=flat-square&logo=github&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/-30363D?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
 | Area | Using now | Learning |
